@@ -1,0 +1,10 @@
+GET http://127.0.0.1:3000/home/butt
+
+###
+
+POST http://127.0.0.1:3000/home
+Content-Type: application/json
+
+{
+  "id": "howdy brother"
+}
